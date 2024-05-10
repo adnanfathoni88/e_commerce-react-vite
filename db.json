@@ -1,0 +1,156 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Sajadah"
+    },
+    {
+      "id": 2,
+      "nama": "Mukena"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "nama": "Sajadah A",
+      "kategori": 1,
+      "harga": 150000,
+      "stok": 50
+    },
+    {
+      "id": 2,
+      "nama": "Sajadah B",
+      "kategori": 1,
+      "harga": 180000,
+      "stok": 40
+    },
+    {
+      "id": 3,
+      "nama": "Sajadah C",
+      "kategori": 1,
+      "harga": 200000,
+      "stok": 30
+    },
+    {
+      "id": 4,
+      "nama": "Mukena A",
+      "kategori": 2,
+      "harga": 250000,
+      "stok": 60
+    },
+    {
+      "id": 5,
+      "nama": "Mukena B",
+      "kategori": 2,
+      "harga": 300000,
+      "stok": 50
+    },
+    {
+      "id": 6,
+      "nama": "Mukena C",
+      "kategori": 2,
+      "harga": 280000,
+      "stok": 45
+    },
+    {
+      "id": 7,
+      "nama": "Sajadah D",
+      "kategori": 1,
+      "harga": 170000,
+      "stok": 55
+    },
+    {
+      "id": 8,
+      "nama": "Mukena D",
+      "kategori": 2,
+      "harga": 320000,
+      "stok": 35
+    },
+    {
+      "id": 9,
+      "nama": "Sajadah E",
+      "kategori": 1,
+      "harga": 190000,
+      "stok": 48
+    },
+    {
+      "id": 10,
+      "nama": "Mukena E",
+      "kategori": 2,
+      "harga": 280000,
+      "stok": 42
+    },
+    {
+      "id": "",
+      "nama": "lorem",
+      "kategori": "lorem",
+      "harga": "lorem",
+      "stok": "lorem"
+    },
+    {
+      "id": "",
+      "nama": "",
+      "kategori": "",
+      "harga": "",
+      "stok": ""
+    },
+    {
+      "id": "",
+      "nama": "p",
+      "kategori": "p",
+      "harga": "p",
+      "stok": "p"
+    },
+    {
+      "id": "",
+      "nama": "p",
+      "kategori": "p",
+      "harga": "p",
+      "stok": "p"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "total_bayar": 60000,
+      "menus": [
+        {
+          "jumlah": 2,
+          "total_harga": 32000,
+          "product": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "keterangan": "Semuanya Pedas",
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 28000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telur",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-goreng-telor.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
